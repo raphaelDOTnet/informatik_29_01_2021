@@ -10,6 +10,6 @@ mode						Set the parser to use to...
 	-integer				...Integer parser.
 	-p 'parser'				Set the parser to use.
 parse						Initialize parsing text using the current parser.
-	-t 'text'|-'text'		The text you want to parse.
+	-t 'text'|-'text'			The text you want to parse.
 	-p 'parser'				The parser you want to use.
 ```
